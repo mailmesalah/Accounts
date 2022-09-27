@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="6232f0713b5143c3bd5334fa97500870" Name="Diagram1" ZoomLevel="68" ShowGrid="true" SnapToGrid="false">
+        <EntityTypeShape EntityType="AccountsdbModel.bank_deposits" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="AccountsdbModel.bank_withdrawals" Width="1.5" PointX="2.75" PointY="0.75" />
+        <EntityTypeShape EntityType="AccountsdbModel.bill_nos" Width="1.5" PointX="4.75" PointY="0.75" />
+        <EntityTypeShape EntityType="AccountsdbModel.cash_payments" Width="1.5" PointX="0.75" PointY="5.75" />
+        <EntityTypeShape EntityType="AccountsdbModel.cash_receipts" Width="1.5" PointX="2.75" PointY="5.75" />
+        <EntityTypeShape EntityType="AccountsdbModel.journal_vouchers" Width="1.5" PointX="4.75" PointY="5.75" />
+        <EntityTypeShape EntityType="AccountsdbModel.ledger_register" Width="1.5" PointX="6.75" PointY="0.75" />
+        <EntityTypeShape EntityType="AccountsdbModel.ledger_transactions" Width="1.5" PointX="6.75" PointY="7.75" />
+        <EntityTypeShape EntityType="AccountsdbModel.opening_balances" Width="1.5" PointX="8.75" PointY="0.75" />
+        <EntityTypeShape EntityType="AccountsdbModel.purchase" Width="1.5" PointX="8.75" PointY="4.75" />
+        <EntityTypeShape EntityType="AccountsdbModel.purchase_return" Width="1.5" PointX="0.75" PointY="9.75" />
+        <EntityTypeShape EntityType="AccountsdbModel.sales" Width="1.5" PointX="2.75" PointY="9.75" />
+        <EntityTypeShape EntityType="AccountsdbModel.sales_return" Width="1.5" PointX="8.75" PointY="9.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
